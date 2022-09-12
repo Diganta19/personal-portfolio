@@ -13,9 +13,14 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         Welcome To <br />
-        My Personal Portfolio
+        Diganta's Portfolio
       </SectionTitle>
       <SectionText>
+        I'm a Full-Stack Developer from Kolkata,India.<br />
+        <br />
+        I enjoy taking complex problems and turning them<br />
+        into simple and beautiful designs, striving to write <br />
+        efficient code everytime, whether it be HTML, CSS or jQuery.
       </SectionText>
       <Button onClick={onclick}>Learn More</Button>
     </LeftSection>

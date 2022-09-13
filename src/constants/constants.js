@@ -2,17 +2,17 @@ export const projects = [
   {
     title: "BOX Office",
     description:
-      "Using React, Node.js you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+      "A simple app for all the cinephile out there. Build using React - Learn the flow of react components and explore different  react hooks. Get a vivid idea of how to work with API's, handel their data in realtime, perfrom search on this data. A simple project to give your resume a big boost.",
     image: "/images/BOSS.jpg",
     tags: ["React", "Node"],
     source: "https://diganta19.github.io/box-office/#/",
-    visit: "https://github.com/Diganta19/tictactoe",
+    visit: "https://github.com/Diganta19/box-office",
     id: 0,
   },
   {
     title: "E-Commerce(ongoing)",
     description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+      "While building it you're going to learn many advanced  JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at end , you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: "/images/ecomm.jpg",
     tags: ["HTML", "CSS", "JavaScript", "Express.js"],
     source: "https://google.com",
@@ -21,8 +21,7 @@ export const projects = [
   },
   {
     title: "Chat App",
-    description:
-      "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description:"This is a code repository for Realtime Chat Application. Again a project based on React and Firebase, to give you a better understanding of advance concepts of working with realtime data. ",
     image: "/images/chatapp.jpg",
     tags: ["React", "Firebase"],
     source: "https://google.com",
@@ -32,7 +31,7 @@ export const projects = [
   {
     title: "TicTacToe Game",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    "A basic game which is a must have. Explores the fundamentals of React.js such as Component Tree, Flux, Virtual DOM etc. ",
     image: "/images/tictactoe.jpg",
     tags: ["React"],
     source: "https://deceivedhuman.surge.sh/",

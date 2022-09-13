@@ -6,7 +6,7 @@ import { LeftSection } from './HeroStyles';
 
 
 const onclick= () => {
-   window.location = 'https://google.com'
+  window.location = '#about';
  }
 const Hero = (props) => (
   <Section row nopadding>
@@ -16,7 +16,7 @@ const Hero = (props) => (
         Diganta's Portfolio
       </SectionTitle>
       <SectionText>
-        I'm a Full-Stack Developer from Kolkata,India.<br />
+        I'm a Full-Stack Developer from Kolkata, India.<br />
         <br />
         I enjoy taking complex problems and turning them<br />
         into simple and beautiful designs, striving to write <br />
